@@ -1,0 +1,32 @@
+
+.custom-slider {
+    -webkit-appearance: none;
+    width: 90%;
+    margin: 0 auto;
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    transition: .2s;
+    transition: opacity .2s;
+}
+
+.custom-slider:hover {
+    opacity: 1;
+}
+
+.custom-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #47BBD1;
+    cursor: pointer;
+}
+
+.custom-slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #47BBD1;
+    cursor: pointer;
+}
