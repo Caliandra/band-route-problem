@@ -27,4 +27,4 @@ If you have questions on the challenge, please contact Jared Sartin: jared@leftf
 
 # Candidate Notes:
 
-### Fill in comments, external tool usage, and time tracking
+This is where I am at for the cutoff. I would like to keep working on this to make it more user friendly. The styles and interactivity could be improved to add more personality. I was only vaguely familiar with the traveling salesman problem before this. I would like to add more to illustrate the balance between computational weight vs accuracy. 
